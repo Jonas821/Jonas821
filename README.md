@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:8b2be2,100:ff1744&height=220&section=header&text=Jonas%20Sacato&fontSize=46&fontColor=ffffff&animation=twinkling&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20Bancos%20de%20Dados&descSize=18&descAlignY=70" width="100%" alt="Banner Jonas Sacato" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066ff,50:8b2be2,100:ff1744&amp;height=220&amp;section=header&amp;text=Jonas%20Sacato&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20Bancos%20de%20Dados&amp;descSize=18&amp;descAlignY=70" width="100%" alt="Banner Jonas Sacato">
 
 </div>
 
@@ -13,28 +13,24 @@
 <div align="center">
 
 <a href="https://www.instagram.com/sacato.junior/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
 </a>
 
   
 
 <a href="https://github.com/Jonas821" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 </a>
 
 </div>
 
 <br>
 
-<!-- ==================== FRASE ==================== -->
-
 <div align="center">
 
-### ⚡ Transformo ideias e lógicas de negócio em APIs robustas, eficientes e escaláveis.
+<h3>⚡ Transformo ideias e lógicas de negócio em APIs robustas, eficientes e escaláveis.</h3>
 
 </div>
-
-<br>
 
 ---
 
@@ -79,30 +75,33 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <td>📡 <strong>APIs</strong></td>
 <td>REST • CRUD • Autenticação</td>
 </tr>
-
 </table>
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" valign="top">
+
+<div align="center">
 
 <h3>⚡ Status</h3>
 
 <br>
 
-<img src="https://img.shields.io/badge/Perfil-Backend%20Júnior-0066ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PERFIL-BACKEND%20J%C3%9ANIOR-0066ff?style=for-the-badge" alt="Perfil Backend Júnior">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Foco-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCO-NODE.JS-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Foco Node.js">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Aprendizado-Contínuo-8b2be2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APRENDIZAGEM-CONT%C3%8DNUA-8b2be2?style=for-the-badge" alt="Aprendizagem Contínua">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Construindo-Projetos-ff1744?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CONSTRUINDO-PROJETOS-ff1744?style=for-the-badge" alt="Construindo Projetos">
+
+</div>
 
 </td>
 
@@ -113,25 +112,25 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <!-- ==================== TECNOLOGIAS ==================== -->
 
-<h2>🛠️ Tecnologias & Ecossistema</h2>
+<h2>🛠️ Tecnologias &amp; Ecossistema</h2>
 
 <div align="center">
 
-<h3>💻 Linguagens & Backend</h3>
+<h3>💻 Linguagens &amp; Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express" height="55" alt="JavaScript Node.js Express" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express" height="55" alt="JavaScript Node.js Express">
 
 <br><br>
 
-<h3>🗄️ Bancos de Dados & ORM</h3>
+<h3>🗄️ Bancos de Dados &amp; ORM</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" height="55" alt="PostgreSQL Supabase Prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" height="55" alt="PostgreSQL Supabase Prisma">
 
 <br><br>
 
 <h3>🔧 Ferramentas</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" alt="Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" alt="Git GitHub VS Code">
 
 </div>
 
@@ -139,18 +138,18 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
 
 </div>
 
 ---
 
-<!-- ==================== O QUE ESTOU A ESTUDAR ==================== -->
+<!-- ==================== ESTUDOS ==================== -->
 
 <h2>📚 O Que Estou a Estudar</h2>
 
@@ -174,7 +173,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <td width="50%" valign="top">
 
-<h3>🗄️ Dados & Arquitetura</h3>
+<h3>🗄️ Dados &amp; Arquitetura</h3>
 
 <ul>
 <li>PostgreSQL</li>
@@ -240,18 +239,16 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 API Backend desenvolvida para praticar criação de endpoints, operações CRUD e integração com banco de dados.
 </p>
 
-<p>
-<strong>Tecnologias:</strong>
-</p>
+<p><strong>Tecnologias:</strong></p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
 
 <br><br>
 
 <a href="https://github.com/Jonas821">
-<img src="https://img.shields.io/badge/Ver%20Projetos-0066ff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Ver%20Projetos-0066ff?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver projetos">
 </a>
 
 </td>
@@ -264,18 +261,16 @@ API Backend desenvolvida para praticar criação de endpoints, operações CRUD 
 Projeto focado na construção de sistemas de utilizadores, autenticação, autorização e proteção de rotas.
 </p>
 
-<p>
-<strong>Tecnologias:</strong>
-</p>
+<p><strong>Tecnologias:</strong></p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
 
 <br><br>
 
 <a href="https://github.com/Jonas821">
-<img src="https://img.shields.io/badge/Ver%20Projetos-ff1744?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Ver%20Projetos-ff1744?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver projetos">
 </a>
 
 </td>
@@ -287,15 +282,15 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 
 <!-- ==================== ESTATÍSTICAS ==================== -->
 
-<h2>📊 Métricas & Atividade</h2>
+<h2>📊 Métricas &amp; Atividade</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonas821&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonas821&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;border_radius=12&amp;locale=pt-br&amp;hide_border=true" alt="Estatísticas do GitHub">
 
    
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas821&layout=compact&theme=tokyonight&border_radius=12&locale=pt-br&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas821&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=12&amp;locale=pt-br&amp;hide_border=true&amp;langs_count=6" alt="Linguagens mais utilizadas">
 
 </div>
 
@@ -303,7 +298,7 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jonas821&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de Atividade no GitHub" />
+<img src="https://streak-stats.demolab.com?user=Jonas821&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;locale=pt_BR" alt="Sequência de atividade no GitHub">
 
 </div>
 
@@ -318,25 +313,31 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 
 <td width="33%" align="center">
 
-### 🚀 Evolução
+<h3>🚀 Evolução</h3>
 
+<p>
 Aprofundar conhecimentos em Backend, arquitetura e engenharia de software.
+</p>
 
 </td>
 
 <td width="33%" align="center">
 
-### 🧠 Aprendizado
+<h3>🧠 Aprendizado</h3>
 
+<p>
 Construir projetos cada vez mais completos e aplicar novas tecnologias.
+</p>
 
 </td>
 
 <td width="33%" align="center">
 
-### 💼 Carreira
+<h3>💼 Carreira</h3>
 
+<p>
 Criar um portfólio sólido e conquistar oportunidades como desenvolvedor Backend.
+</p>
 
 </td>
 
@@ -351,9 +352,7 @@ Criar um portfólio sólido e conquistar oportunidades como desenvolvedor Backen
 
 <h2>💡 Minha Filosofia</h2>
 
-<p>
-<strong>Aprender → Construir → Testar → Melhorar → Repetir</strong>
-</p>
+<h3>Aprender → Construir → Testar → Melhorar → Repetir</h3>
 
 <p>
 Cada projeto é uma oportunidade para aprender algo novo e evoluir como desenvolvedor.
@@ -376,25 +375,25 @@ Estou sempre aberto a aprender, colaborar e conhecer outros desenvolvedores.
 <br>
 
 <a href="https://github.com/Jonas821">
-<img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Jonas821">
 </a>
 
   
 
 <a href="https://www.instagram.com/sacato.junior/">
-<img src="https://img.shields.io/badge/Instagram-@sacato.junior-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@sacato.junior-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram sacato.junior">
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:8b2be2,100:ff1744&height=100&section=footer" width="100%" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066ff,50:8b2be2,100:ff1744&amp;height=100&amp;section=footer" width="100%" alt="Rodapé">
 
 <br>
 
-<strong>💻 Aprender. Construir. Evoluir.</strong>
+<h3>💻 Aprender. Construir. Evoluir.</h3>
 
-<br><br>
-
+<p>
 ⭐ Se algum dos meus projetos for útil para ti, considera deixar uma estrela!
+</p>
 
 </div>
