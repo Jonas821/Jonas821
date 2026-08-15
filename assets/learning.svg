@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0066ff"/><stop offset="1" stop-color="#ff1744"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="328" rx="20" fill="#0a0d13" stroke="#252c38"/>
+<rect x="1" y="1" width="998" height="4" rx="2" fill="url(#g)"/>
+<text x="34" y="47" fill="#fff" font-family="Arial" font-size="24" font-weight="700">ROADMAP</text>
+<text x="34" y="74" fill="#7f8da5" font-family="Arial" font-size="12">O que estou a estudar e os próximos passos</text>
+<g font-family="Arial">
+<rect x="34" y="103" width="280" height="65" rx="12" fill="#0f1726" stroke="#0066ff"/>
+<text x="54" y="130" fill="#58a6ff" font-size="14" font-weight="700">01 • BACKEND</text>
+<text x="54" y="153" fill="#9aa7bb" font-size="12">REST • Auth • Validation • TypeScript</text>
+<rect x="360" y="103" width="280" height="65" rx="12" fill="#0f1726" stroke="#7b2cff"/>
+<text x="380" y="130" fill="#b38cff" font-size="14" font-weight="700">02 • DATA</text>
+<text x="380" y="153" fill="#9aa7bb" font-size="12">SQL • PostgreSQL • Prisma • Modeling</text>
+<rect x="686" y="103" width="280" height="65" rx="12" fill="#0f1726" stroke="#ff1744"/>
+<text x="706" y="130" fill="#ff7185" font-size="14" font-weight="700">03 • NEXT</text>
+<text x="706" y="153" fill="#9aa7bb" font-size="12">Tests • Docker • CI/CD • Cloud</text>
+</g>
+<text x="34" y="213" fill="#c9d1d9" font-family="Arial" font-size="14" font-weight="700">FOCUS</text>
+<rect x="34" y="230" width="932" height="18" rx="9" fill="#151c28"/>
+<rect x="34" y="230" width="610" height="18" rx="9" fill="url(#g)"/>
+<text x="34" y="278" fill="#7f8da5" font-family="Arial" font-size="12">Aprender → Construir → Testar → Melhorar → Repetir</text>
+</svg>

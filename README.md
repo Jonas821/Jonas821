@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Jonas Sacato">
 
-<br><br>
+<br>
 
 <a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 &nbsp;
@@ -14,31 +14,31 @@
 
 ---
 
+## 👨‍💻 SOBRE MIM
+
 <div align="center"><img src="./assets/about.svg" width="100%" alt="Sobre Jonas Sacato"></div>
 
 ---
 
-## 🛠️ TECH STACK
+## 🛠️ TECNOLOGIAS & ECOSSISTEMA
 
 <div align="center">
-
-<img src="./assets/stack.svg" width="100%" alt="Tecnologias">
-
+<img src="./assets/stack.svg" width="100%" alt="Tech Stack">
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,postgres,supabase,prisma,git,github,vscode" height="55" alt="JavaScript TypeScript Node.js Express React PostgreSQL Supabase Prisma Git GitHub VS Code">
-
 </div>
 
 ---
 
-## 📚 CURRENTLY LEARNING
+## 📚 O QUE ESTOU A ESTUDAR
+
+<div align="center"><img src="./assets/learning.svg" width="100%" alt="Roadmap de aprendizagem"></div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Backend
+### 🔵 Desenvolvimento Backend
 
 - APIs REST
 - CRUD
@@ -52,7 +52,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔴 Data & Architecture
+### 🔴 Dados & Arquitetura
 
 - PostgreSQL
 - SQL
@@ -66,7 +66,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Software Engineering
+### ⚡ Engenharia de Software
 
 - Código limpo
 - Princípios SOLID
@@ -76,7 +76,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Next Steps
+### 🚀 Próximos Passos
 
 - Testes automatizados
 - Docker
@@ -91,38 +91,43 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJETOS EM DESTAQUE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 REST API
+<h3>🔌 API REST</h3>
 
-API Backend desenvolvida para praticar criação de endpoints, operações CRUD e integração com banco de dados.
+<p>API Backend desenvolvida para praticar endpoints, operações CRUD e integração com banco de dados.</p>
 
-**Tecnologias**
+<p><strong>Stack</strong></p>
 
-`Node.js` `TypeScript` `Prisma` `PostgreSQL`
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
 
-<br>
-
-<a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/VER%20NO%20GITHUB-0066FF?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/VER%20PROJETO-0066FF?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 SISTEMA DE AUTENTICAÇÃO
+<h3>🔐 SISTEMA DE AUTENTICAÇÃO</h3>
 
-Projeto focado na construção de utilizadores, autenticação, autorização e proteção de rotas.
+<p>Projeto focado em utilizadores, autenticação, autorização e proteção de rotas.</p>
 
-**Tecnologias**
+<p><strong>Stack</strong></p>
 
-`Node.js` `Express` `PostgreSQL`
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
 
-<br>
-
-<a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/VER%20NO%20GITHUB-FF1744?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/VER%20PROJETO-FF1744?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 </tr>
@@ -130,37 +135,39 @@ Projeto focado na construção de utilizadores, autenticação, autorização e 
 
 ---
 
-## 📊 DEVELOPMENT
+## 📊 DESENVOLVIMENTO
 
 <div align="center">
-<img src="./assets/activity.svg" width="100%" alt="Atividade de desenvolvimento">
+
+<img src="./assets/development.svg" width="100%" alt="Gráficos e atividade de desenvolvimento">
+
 </div>
 
-> **Nota:** a atividade acima é uma ilustração estática criada para o design do perfil; não representa contagens reais do GitHub.
+> **Nota:** os gráficos acima são elementos visuais estáticos criados para o design do perfil. Não representam estatísticas reais do GitHub.
 
 ---
 
-## 🎯 GOALS
+## 🎯 OBJETIVOS
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🚀 EVOLUTION
+### 🚀 EVOLUÇÃO
 
 Aprofundar conhecimentos em Backend, arquitetura e engenharia de software.
 
 </td>
 <td width="33%" align="center">
 
-### 🧠 LEARNING
+### 🧠 APRENDIZAGEM
 
 Construir projetos cada vez mais completos e aplicar novas tecnologias.
 
 </td>
 <td width="33%" align="center">
 
-### 💼 CAREER
+### 💼 CARREIRA
 
 Criar um portfólio sólido e conquistar oportunidades como desenvolvedor Backend.
 
@@ -172,7 +179,7 @@ Criar um portfólio sólido e conquistar oportunidades como desenvolvedor Backen
 
 <div align="center">
 
-## 💡 MY PHILOSOPHY
+## 💡 MINHA FILOSOFIA
 
 ### `Aprender → Construir → Testar → Melhorar → Repetir`
 
@@ -180,16 +187,16 @@ Cada projeto é uma oportunidade para aprender algo novo e evoluir como desenvol
 
 <br>
 
-<img src="https://img.shields.io/badge/LEARN-0066FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/BUILD-FF1744?style=for-the-badge">
-<img src="https://img.shields.io/badge/IMPROVE-0066FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/REPEAT-FF1744?style=for-the-badge">
+<img src="https://img.shields.io/badge/APRENDER-0066FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/CONSTRUIR-FF1744?style=for-the-badge">
+<img src="https://img.shields.io/badge/MELHORAR-0066FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/REPETIR-FF1744?style=for-the-badge">
 
 </div>
 
 ---
 
-## 🤝 LET'S CONNECT
+## 🤝 VAMOS NOS CONECTAR?
 
 <div align="center">
 
@@ -197,21 +204,21 @@ Estou sempre aberto a aprender, colaborar e conhecer outros desenvolvedores.
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/jonas-sacato"><img src="https://img.shields.io/badge/Jonas%20Sacato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/jonas-sacato"><img src="https://img.shields.io/badge/JONAS%20SACATO-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br><br>
 
-<a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/Jonas821-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Jonas821"><img src="https://img.shields.io/badge/JONAS821-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br><br>
 
-<a href="https://www.instagram.com/sacatodev/"><img src="https://img.shields.io/badge/@sacatodev-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/sacatodev/"><img src="https://img.shields.io/badge/@SACATODEV-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<br><br><br>
+
+🔵 **APRENDER** &nbsp; • &nbsp; 🔴 **CONSTRUIR** &nbsp; • &nbsp; 🔵 **EVOLUIR**
 
 <br><br>
-
-### 🔵 APRENDER &nbsp; • &nbsp; 🔴 CONSTRUIR &nbsp; • &nbsp; 🔵 EVOLUIR
-
-<br>
 
 ⭐ Se algum dos meus projetos for útil para ti, considera deixar uma estrela!
 
