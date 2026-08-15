@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="285">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0066ff"/><stop offset="1" stop-color="#ff1744"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="283" rx="18" fill="#0a0d13" stroke="#252c38"/>
+<text x="38" y="45" fill="#fff" font-family="Arial" font-size="23" font-weight="700">TECH STACK</text>
+<text x="38" y="72" fill="#737b8c" font-family="Arial" font-size="12">Tecnologias que fazem parte do meu ecossistema</text>
+<g font-family="Arial" font-size="13" font-weight="700">
+<rect x="38" y="95" width="180" height="42" rx="10" fill="#111827" stroke="#0066ff"/><text x="128" y="121" fill="#58a6ff" text-anchor="middle">JavaScript • TypeScript</text>
+<rect x="230" y="95" width="160" height="42" rx="10" fill="#111827" stroke="#0066ff"/><text x="310" y="121" fill="#58a6ff" text-anchor="middle">Node.js • Express</text>
+<rect x="402" y="95" width="120" height="42" rx="10" fill="#111827" stroke="#ff1744"/><text x="462" y="121" fill="#ff6b80" text-anchor="middle">React</text>
+<rect x="534" y="95" width="190" height="42" rx="10" fill="#111827" stroke="#0066ff"/><text x="629" y="121" fill="#58a6ff" text-anchor="middle">PostgreSQL • Supabase</text>
+<rect x="736" y="95" width="110" height="42" rx="10" fill="#111827" stroke="#ff1744"/><text x="791" y="121" fill="#ff6b80" text-anchor="middle">Prisma</text>
+<rect x="858" y="95" width="104" height="42" rx="10" fill="#111827" stroke="#0066ff"/><text x="910" y="121" fill="#58a6ff" text-anchor="middle">Git</text>
+</g>
+<line x1="38" y1="165" x2="962" y2="165" stroke="#252c38"/>
+<text x="38" y="195" fill="#58a6ff" font-family="Arial" font-size="12" font-weight="700">BACKEND</text>
+<text x="110" y="195" fill="#8b949e" font-family="Arial" font-size="12">APIs REST • CRUD • Auth • Validation • Error Handling</text>
+<text x="38" y="222" fill="#ff6b80" font-family="Arial" font-size="12" font-weight="700">DATABASE</text>
+<text x="110" y="222" fill="#8b949e" font-family="Arial" font-size="12">PostgreSQL • SQL • Prisma ORM • Modelagem de dados</text>
+<text x="38" y="249" fill="#58a6ff" font-family="Arial" font-size="12" font-weight="700">TOOLS</text>
+<text x="110" y="249" fill="#8b949e" font-family="Arial" font-size="12">Git • GitHub • VS Code</text>
+</svg>

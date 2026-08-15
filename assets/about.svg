@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0066ff"/><stop offset="1" stop-color="#ff1744"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="258" rx="18" fill="#0a0d13" stroke="#252c38"/>
+<rect x="1" y="1" width="998" height="4" rx="2" fill="url(#g)"/>
+<text x="38" y="48" fill="#fff" font-family="Arial" font-size="24" font-weight="700">ABOUT ME</text>
+<text x="38" y="84" fill="#c9d1d9" font-family="Arial" font-size="15">Desenvolvedor Backend Júnior focado em JavaScript, TypeScript e Node.js.</text>
+<text x="38" y="111" fill="#8b949e" font-family="Arial" font-size="14">Construo APIs, sistemas e soluções conectadas a bancos de dados.</text>
+<text x="38" y="138" fill="#8b949e" font-family="Arial" font-size="14">Atualmente aprofundo Backend, arquitetura, modelagem de dados e boas práticas.</text>
+<rect x="38" y="174" width="150" height="35" rx="17" fill="#0066ff" fill-opacity=".12" stroke="#0066ff" stroke-opacity=".55"/>
+<text x="113" y="196" fill="#58a6ff" font-family="Arial" font-size="12" text-anchor="middle" font-weight="700">BACKEND FOCUS</text>
+<rect x="202" y="174" width="175" height="35" rx="17" fill="#ff1744" fill-opacity=".10" stroke="#ff1744" stroke-opacity=".55"/>
+<text x="289" y="196" fill="#ff6b80" font-family="Arial" font-size="12" text-anchor="middle" font-weight="700">CONTINUOUS LEARNING</text>
+</svg>
