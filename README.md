@@ -135,15 +135,39 @@
 
 ---
 
-## 📊 DESENVOLVIMENTO
+## 📊 ESTATÍSTICAS DO GITHUB
 
 <div align="center">
 
-<img src="./assets/development.svg" width="100%" alt="Gráficos e atividade de desenvolvimento">
+<a href="https://github.com/Jonas821">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonas821&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&icon_color=ff1744&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas reais do GitHub de Jonas Sacato">
+</a>
+
+<a href="https://github.com/Jonas821">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas821&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais utilizadas por Jonas Sacato">
+</a>
 
 </div>
 
-> **Nota:** os gráficos acima são elementos visuais estáticos criados para o design do perfil. Não representam estatísticas reais do GitHub.
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jonas821&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117&ring=0066FF&fire=FF1744&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak de Jonas Sacato">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Jonas821">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonas821&bg_color=0d1117&color=58a6ff&line=0066ff&point=ff1744&area=true&hide_border=true&custom_title=Atividade%20do%20GitHub%20-%20Jonas%20Sacato" width="95%" alt="Gráfico real de atividade do GitHub de Jonas Sacato">
+</a>
+
+</div>
+
+> **Os gráficos acima são dinâmicos:** são gerados a partir dos dados públicos do GitHub de `Jonas821` e atualizados pelos serviços de estatísticas. O GitHub também disponibiliza o gráfico de contribuições diretamente no perfil.
 
 ---
 
