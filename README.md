@@ -1,8 +1,8 @@
-<!-- ==================== CABEÇALHO ==================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066ff,50:8b2be2,100:ff1744&amp;height=220&amp;section=header&amp;text=Jonas%20Sacato&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%26%20Bancos%20de%20Dados&amp;descSize=18&amp;descAlignY=70" width="100%" alt="Banner Jonas Sacato">
+<h1>👋 Olá, eu sou Jonas Sacato</h1>
+
+<h3>⚡ Desenvolvedor Backend Júnior | Node.js & Bancos de Dados</h3>
 
 </div>
 
@@ -13,13 +13,13 @@
 <div align="center">
 
 <a href="https://www.instagram.com/sacatodev/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
   
 
 <a href="https://github.com/Jonas821" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -46,7 +46,7 @@
 <h3>👨‍💻 Desenvolvedor Backend Júnior</h3>
 
 <p>
-Sou um desenvolvedor Backend focado no ecossistema <strong>JavaScript</strong> e <strong>Node.js</strong>, com interesse em construir APIs, sistemas eficientes e soluções conectadas a bancos de dados.
+Sou um desenvolvedor Backend focado no ecossistema <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>Node.js</strong>, com interesse em construir APIs, sistemas eficientes e soluções conectadas a bancos de dados.
 </p>
 
 <p>
@@ -58,7 +58,12 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <table>
 <tr>
 <td>💻 <strong>Backend</strong></td>
-<td>Node.js • Express</td>
+<td>Node.js • Express • TypeScript</td>
+</tr>
+
+<tr>
+<td>⚛️ <strong>Frontend</strong></td>
+<td>React</td>
 </tr>
 
 <tr>
@@ -91,7 +96,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FOCO-NODE.JS-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Foco Node.js">
+<img src="https://img.shields.io/badge/FOCO-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Foco Node.js">
 
 <br><br>
 
@@ -112,17 +117,23 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <!-- ==================== TECNOLOGIAS ==================== -->
 
-<h2>🛠️ Tecnologias &amp; Ecossistema</h2>
+<h2>🛠️ Tecnologias & Ecossistema</h2>
 
 <div align="center">
 
-<h3>💻 Linguagens &amp; Backend</h3>
+<h3>💻 Linguagens & Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express" height="55" alt="JavaScript Node.js Express">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express" height="55" alt="JavaScript TypeScript Node.js Express">
 
 <br><br>
 
-<h3>🗄️ Bancos de Dados &amp; ORM</h3>
+<h3>⚛️ Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react" height="55" alt="React">
+
+<br><br>
+
+<h3>🗄️ Bancos de Dados & ORM</h3>
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" height="55" alt="PostgreSQL Supabase Prisma">
 
@@ -138,12 +149,21 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 
 </div>
 
@@ -173,7 +193,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <td width="50%" valign="top">
 
-<h3>🗄️ Dados &amp; Arquitetura</h3>
+<h3>🗄️ Dados & Arquitetura</h3>
 
 <ul>
 <li>PostgreSQL</li>
@@ -241,14 +261,16 @@ API Backend desenvolvida para praticar criação de endpoints, operações CRUD 
 
 <p><strong>Tecnologias:</strong></p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&amp;logo=prisma&amp;logoColor=white" alt="Prisma">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
 <br><br>
 
 <a href="https://github.com/Jonas821">
-<img src="https://img.shields.io/badge/Ver%20Projetos-0066ff?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver projetos">
+<img src="https://img.shields.io/badge/Ver%20Projetos-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos">
 </a>
 
 </td>
@@ -263,14 +285,16 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 
 <p><strong>Tecnologias:</strong></p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
 <br><br>
 
 <a href="https://github.com/Jonas821">
-<img src="https://img.shields.io/badge/Ver%20Projetos-ff1744?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Ver projetos">
+<img src="https://img.shields.io/badge/Ver%20Projetos-ff1744?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos">
 </a>
 
 </td>
@@ -282,15 +306,15 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 
 <!-- ==================== ESTATÍSTICAS ==================== -->
 
-<h2>📊 Métricas &amp; Atividade</h2>
+<h2>📊 Métricas & Atividade</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonas821&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github&amp;border_radius=12&amp;locale=pt-br&amp;hide_border=true" alt="Estatísticas do GitHub">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonas821&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
 
-   
+  
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas821&amp;layout=compact&amp;theme=tokyonight&amp;border_radius=12&amp;locale=pt-br&amp;hide_border=true&amp;langs_count=6" alt="Linguagens mais utilizadas">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas821&layout=compact&theme=tokyonight&border_radius=12&locale=pt-br&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas">
 
 </div>
 
@@ -298,7 +322,7 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jonas821&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;locale=pt_BR" alt="Sequência de atividade no GitHub">
+<img src="https://streak-stats.demolab.com?user=Jonas821&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de atividade no GitHub">
 
 </div>
 
@@ -375,20 +399,16 @@ Estou sempre aberto a aprender, colaborar e conhecer outros desenvolvedores.
 <br>
 
 <a href="https://github.com/Jonas821">
-<img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Jonas821">
+<img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Jonas821">
 </a>
 
   
 
 <a href="https://www.instagram.com/sacatodev/">
-<img src="https://img.shields.io/badge/Instagram-@sacatodev-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram sacatodev">
+<img src="https://img.shields.io/badge/Instagram-@sacatodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram sacatodev">
 </a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0066ff,50:8b2be2,100:ff1744&amp;height=100&amp;section=footer" width="100%" alt="Rodapé">
-
-<br>
 
 <h3>💻 Aprender. Construir. Evoluir.</h3>
 
@@ -397,5 +417,3 @@ Estou sempre aberto a aprender, colaborar e conhecer outros desenvolvedores.
 </p>
 
 </div>
-
-
