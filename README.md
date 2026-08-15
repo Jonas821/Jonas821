@@ -404,7 +404,9 @@ Estou sempre aberto a aprender, colaborar e conhecer outros desenvolvedores.
 <img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Jonas821">
 </a>
 
-  
+ <a href="https://www.linkedin.com/in/jonas-sacato" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <a href="https://www.instagram.com/sacatodev/">
 <img src="https://img.shields.io/badge/Instagram-@sacatodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram sacatodev">
