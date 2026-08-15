@@ -2,7 +2,11 @@
 
 <h1>👋 Olá, eu sou Jonas Sacato</h1>
 
-<h3>⚡ Desenvolvedor Backend Júnior | Node.js & Bancos de Dados</h3>
+<h3>⚡ Desenvolvedor Backend Júnior | Node.js • TypeScript • Bancos de Dados</h3>
+
+<p>
+Construo APIs, sistemas e soluções conectadas a bancos de dados.
+</p>
 
 </div>
 
@@ -12,16 +16,20 @@
 
 <div align="center">
 
+<a href="https://github.com/Jonas821" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+  
+
 <a href="https://www.instagram.com/sacatodev/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+  
+
 <a href="https://www.linkedin.com/in/jonas-sacato" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/Jonas821" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
@@ -58,6 +66,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <br>
 
 <table>
+
 <tr>
 <td>💻 <strong>Backend</strong></td>
 <td>Node.js • Express • TypeScript</td>
@@ -82,6 +91,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <td>📡 <strong>APIs</strong></td>
 <td>REST • CRUD • Autenticação</td>
 </tr>
+
 </table>
 
 </td>
@@ -102,11 +112,11 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/APRENDIZAGEM-CONT%C3%8DNUA-8b2be2?style=for-the-badge" alt="Aprendizagem Contínua">
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CONSTRUINDO-PROJETOS-ff1744?style=for-the-badge" alt="Construindo Projetos">
+<img src="https://img.shields.io/badge/APRENDIZAGEM-CONT%C3%8DNUA-8b2be2?style=for-the-badge" alt="Aprendizagem Contínua">
 
 </div>
 
@@ -176,6 +186,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <h2>📚 O Que Estou a Estudar</h2>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -189,6 +200,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <li>Autorização</li>
 <li>Tratamento de erros</li>
 <li>Validação de dados</li>
+<li>TypeScript</li>
 </ul>
 
 </td>
@@ -242,6 +254,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -251,6 +264,7 @@ Atualmente estou a aprofundar os meus conhecimentos em desenvolvimento Backend, 
 <h2>🚀 Projetos em Destaque</h2>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -264,6 +278,8 @@ API Backend desenvolvida para praticar criação de endpoints, operações CRUD 
 <p><strong>Tecnologias:</strong></p>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 
@@ -302,29 +318,47 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-<!-- ==================== ESTATÍSTICAS ==================== -->
+<!-- ==================== MÉTRICAS ==================== -->
 
 <h2>📊 Métricas & Atividade</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jonas821&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
-
-  
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas821&layout=compact&theme=tokyonight&border_radius=12&locale=pt-br&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas">
-
-</div>
+<h3>💻 Stack Principal</h3>
 
 <br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 
-<img src="https://streak-stats.demolab.com?user=Jonas821&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" alt="Sequência de atividade no GitHub">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+<br><br>
+
+<h3>🚀 Atualmente focado em</h3>
+
+<p>
+Construção de APIs REST, desenvolvimento Backend,
+bancos de dados, TypeScript e arquitetura de aplicações.
+</p>
+
+<br>
+
+<h3>📈 Evolução</h3>
+
+<p>
+Aprendendo continuamente através da construção de projetos reais.
+</p>
 
 </div>
 
@@ -335,6 +369,7 @@ Projeto focado na construção de sistemas de utilizadores, autenticação, auto
 <h2>🎯 Objetivos</h2>
 
 <table>
+
 <tr>
 
 <td width="33%" align="center">
@@ -368,6 +403,7 @@ Criar um portfólio sólido e conquistar oportunidades como desenvolvedor Backen
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -404,12 +440,16 @@ Estou sempre aberto a aprender, colaborar e conhecer outros desenvolvedores.
 <img src="https://img.shields.io/badge/GitHub-Jonas821-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Jonas821">
 </a>
 
- <a href="https://www.linkedin.com/in/jonas-sacato" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<br><br>
 
 <a href="https://www.instagram.com/sacatodev/">
 <img src="https://img.shields.io/badge/Instagram-@sacatodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram sacatodev">
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/jonas-sacato">
+<img src="https://img.shields.io/badge/LinkedIn-Jonas%20Sacato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jonas Sacato">
 </a>
 
 <br><br>
