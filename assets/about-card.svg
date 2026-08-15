@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230">
+<rect x="1" y="1" width="898" height="228" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="8" height="228" rx="4" fill="#0066ff"/>
+<rect x="892" y="1" width="8" height="228" rx="4" fill="#ff1744"/>
+<text x="35" y="42" fill="#fff" font-family="Arial" font-size="22" font-weight="700">ABOUT ME</text>
+<text x="35" y="78" fill="#c9d1d9" font-family="Arial" font-size="15">Desenvolvedor Backend Júnior focado em JavaScript, TypeScript e Node.js.</text>
+<text x="35" y="105" fill="#8b949e" font-family="Arial" font-size="14">Construo APIs, sistemas e soluções conectadas a bancos de dados.</text>
+<text x="35" y="132" fill="#8b949e" font-family="Arial" font-size="14">Atualmente aprofundo Backend, arquitetura, modelagem de dados e boas práticas.</text>
+<text x="35" y="180" fill="#58a6ff" font-family="Arial" font-size="13" font-weight="700">FOCO</text>
+<text x="95" y="180" fill="#c9d1d9" font-family="Arial" font-size="13">Node.js • Express • TypeScript • PostgreSQL • Prisma • Supabase</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<defs>
+ <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0066ff"/><stop offset=".5" stop-color="#111827"/><stop offset="1" stop-color="#ff1744"/></linearGradient>
+</defs>
+<rect width="1000" height="220" fill="#090c12"/>
+<path d="M0 180 C180 120 300 220 500 155 C690 95 800 175 1000 105 V220 H0Z" fill="url(#g)" opacity=".9"/>
+<path d="M0 170 C200 105 320 205 500 145 C700 80 820 160 1000 95" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
+<text x="500" y="82" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" text-anchor="middle">JONAS SACATO</text>
+<text x="500" y="118" fill="#d8dee9" font-family="Arial,Helvetica,sans-serif" font-size="20" text-anchor="middle">Backend Developer • Node.js • TypeScript</text>
+<text x="500" y="150" fill="#9ca3af" font-family="Arial,Helvetica,sans-serif" font-size="14" text-anchor="middle">APIs • Databases • Software Engineering</text>
+</svg>
